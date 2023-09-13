@@ -103,7 +103,7 @@ const Sidebar = () => {
                 className={`nav-link ${location.pathname === navigationLink.path ? 'active' : ''}`}
                 onClick={() => handleNavItemClick(index, navigationLink.path)}
               >
-                <img src={navigationLink.image} className="nav-link-icon" alt={navigationLink.state} />
+                <img src={navigationLink.image} className="nav-link-icon radius_icon" alt={navigationLink.state} />
                 <span className="nav-link-text">{navigationLink.state}</span>
               </Link>
             </li>
