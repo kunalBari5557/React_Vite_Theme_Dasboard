@@ -15,7 +15,7 @@ import { iconsImgs } from "../utils/images";
 
 export const navigationLinks = [
   {
-    path: "/Home",
+    path: "/",
     image: iconsImgs.home,
     state: "dashboard",
     sidebarProps: {

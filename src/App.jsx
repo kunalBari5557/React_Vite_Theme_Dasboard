@@ -12,7 +12,7 @@ function App() {
         <Router>
           <Sidebar />
           <Routes>
-            <Route path="/Home" element={<Content />} />
+            <Route path="/" element={<Content />} />
             <Route path="/Budget" element={<BudgetList />} />
             <Route path="*" element={<PageNotFound />} />
           </Routes>
