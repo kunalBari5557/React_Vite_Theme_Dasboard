@@ -72,6 +72,8 @@ button {
 .app {
   display: flex;
   min-height: 100vh;
+  font-family: sans-serif;
+  text-align: center;
 }
 
 /* commons */
@@ -155,7 +157,7 @@ p {
   display: inline-flex !important;
   align-items: center;
   justify-content: center;
-  background: #191C24;
+  background: #8055c7;
   border-radius: 50px;
   color: #fff;
   padding: 10px;

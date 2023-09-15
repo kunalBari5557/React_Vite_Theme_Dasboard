@@ -30,4 +30,12 @@ export const navigationLinks = [
       displayText: "Budget",
     },
   },
+  {
+    path: "/Chatbot",
+    image: iconsImgs.plane,
+    state: "chatbot",
+    sidebarProps: {
+      displayText: "Chatbot",
+    },
+  },
 ];
