@@ -14,4 +14,8 @@ Page not found screen
 
 ![Screenshot (139)](https://github.com/kunalBari5557/React_Vite_Theme_Dasboard/assets/96560938/ea0c58c9-1198-43da-bbbb-376ea7fe9b9d)
 
+Add Chatbot features
 
+![Screenshot_1](https://github.com/kunalBari5557/React_Vite_Theme_Dasboard/assets/96560938/35b2fcd2-6e1e-4908-9a9d-2a9b9eb5576e)
+
+![Screenshot_2](https://github.com/kunalBari5557/React_Vite_Theme_Dasboard/assets/96560938/fc0d6df0-772e-43d2-93cb-c0973a7878f4)
